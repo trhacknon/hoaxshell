@@ -2,7 +2,7 @@
 
 [![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/) 
 <img src="https://img.shields.io/badge/powershell-%E2%89%A5%20v3.0-blue">
-[![License](https://img.shields.io/badge/license-BSD-red.svg)](https://github.com/t3l3machus/hoaxshell/blob/main/LICENSE.md)
+[![License](https://img.shields.io/badge/license-BSD-red.svg)](https://github.com/trhacknon/hoaxshell/blob/main/LICENSE.md)
 <img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">
 ## Purpose
 
@@ -14,13 +14,13 @@ So far, it has been tested on fully updated **Windows 11 Enterprise** and **Wind
 https://www.youtube.com/watch?v=SEufgD5UxdU
 
 ## Screenshots
-![usage_example_png](https://raw.github.com/t3l3machus/hoaxshell/master/screenshots/hoaxshell-win11.png)
+![usage_example_png](https://raw.github.com/trhacknon/hoaxshell/master/screenshots/hoaxshell-win11.png)
   
 Find more screenshots [here](screenshots/).
 
 ## Installation
 ```
-git clone https://github.com/t3l3machus/hoaxshell
+git clone https://github.com/trhacknon/hoaxshell
 cd ./hoaxshell
 sudo pip3 install -r requirements.txt
 chmod +x hoaxshell.py
